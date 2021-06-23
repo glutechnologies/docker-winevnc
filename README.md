@@ -18,5 +18,5 @@ docker run -v <your-dir>:/volume
 ## Run example
 
 ```
-docker run -d --restart always -p 127.0.0.1:5900:5900 -v /opt/winevnc:/volume
+docker run -d --restart always -p 127.0.0.1:5900:5900 -v /opt/winevnc:/volume glutec/winevnc:latest
 ```
