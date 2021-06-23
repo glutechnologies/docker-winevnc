@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Winbox
+Type=Application
+Exec=wine64-stable /volume/winbox64.exe
+Icon=Progran
+Terminal=false
+Categories=GNOME;GTK;Utility;TerminalEmulator;System;
+StartupNotify=true
+
